@@ -76,3 +76,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bvzy7p5rplk3kste2t33ynph7y)
 
 ###
+
+<h2 align="left">Projects? Yeah check them out below</h2>
+
+###
