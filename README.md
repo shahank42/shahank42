@@ -71,14 +71,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shahank42/shahank42/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/shahank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bvzy7p5rplk3kste2t33ynph7y)
 
 ###
