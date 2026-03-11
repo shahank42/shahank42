@@ -18,7 +18,7 @@ need someone to help you build the next biggest thing? i've got your back.
 ### professional experience
 
 <!-- currently [open to work](https://shahank42.vercel.app/cv.pdf)! -->
-- sde intern @ [Heizen](https://heizen.work)
+- ai-native fde @ [Heizen](https://heizen.work)
 
 - ex-backend intern @ [Aarish Technologies Inc.](https://aarish.ai)
 - freelance web developer for various firms and NGOs
